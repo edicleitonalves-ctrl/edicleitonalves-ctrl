@@ -8,9 +8,14 @@
 
 ## 🧑‍💻 Sobre Mim
 
-Sou um desenvolvedor apaixonado por construir soluções de software robustas e escaláveis que resolvem problemas reais. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas (ADS)**, onde aprimoro meus conhecimentos em arquitetura de software e boas práticas de desenvolvimento.
+Sou um desenvolvedor apaixonado por construir soluções de software robustas e escaláveis que resolvem problemas reais. Atualmente, curso **Análise e Desenvolvimento de Sistemas (ADS)**, unindo a visão técnica de arquitetura de software com a minha experiência prática e estratégica em gestão de negócios.
 
-**Meu grande objetivo:** Transformar linhas de código em um negócio independente, fundando minha própria empresa de software focada em sistemas de gestão e agendamento.
+Minha jornada vai além de escrever linhas de código. Já atuo ativamente no mercado corporativo e de tecnologia como:
+
+* 🏢 **Fundador e CEO | D&E Consultoria e Soluções Inteligentes**
+* 🌐 **Cofundador | Powernet Provedor LTDA** (atuando nas frentes de SEO e Gestão Financeira)
+
+**Meu grande objetivo:** Utilizar toda essa bagagem técnica e executiva para desenvolver e escalar meus próprios produtos (SaaS, ERPs e plataformas de agendamento), transformando tecnologia em ferramentas essenciais para otimizar a rotina de outras empresas.
 
 ---
 

@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Edicleiton Alves!
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Desenvolvedor+de+Software+🤖;Estudante+de+ADS+(Análise+e+Dev.+Sistemas)+🎓;Futuro+Empreendedor+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7DF1E&center=true&vCenter=true&width=850&lines=Fundador+da+D%26E+Consultoria+e+Solu%C3%A7%C3%B5es+Inteligentes+-+CEO;Cofundador+da+Powernet+Provedor+LTDA+-+SEO+%2F+Financeiro;Estudante+de+ADS;Desenvolvedor+de+Software+%2F+Sites" alt="Typing SVG" />
 </div>
 
 ---

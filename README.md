@@ -57,7 +57,7 @@ Meu foco atual é o desenvolvimento de sistemas de gestão escaláveis, projetad
 <details open>
   <summary>🏢 <b>SaaS - ERP Escolar Completo</b></summary>
   <blockquote>
-    <p>Sistema robusto de gestão escolar desenvolvido do zero no modelo SaaS (Software as a Service). O software possui uma arquitetura dividida em módulos, com foco atual na construção dos setores <b>Administrativo</b> e <b>Acadêmico</b>, facilitando o controle de alunos, notas e rotinas da secretaria.</p>
+    <p>Sistema robusto de gestão escolar desenvolvido do zero no modelo SaaS (Software as a Service). O software possui uma arquitetura dividida em módulos, com foco atual na construção dos setores <b>Administrativo</b>, <b>Acadêmico</b>, <b>Financeiro</b> e <b>Comunicação</b> facilitando o controle de alunos, notas e rotinas da secretaria.</p>
     <strong>Status:</strong> 🚧 Em desenvolvimento <br />
     <strong>Stack:</strong> 
     <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> 
